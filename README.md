@@ -4,7 +4,7 @@ The purpose of the analysis is to assess several aspects of two data files showi
 <br />The analysis included data across 15 schools, 39,170 students, and a budget for the school district of $24,649,428.00. The original data sets provided by the client include [schools_complete.csv](https://github.com/banasibb/PyCity-Schools-Challenge/blob/f1cf64828634a90e3ce69653bb5f2b4f88333695/Resources/schools_complete.csv) and [students_complete.csv](https://github.com/banasibb/PyCity-Schools-Challenge/blob/f1cf64828634a90e3ce69653bb5f2b4f88333695/Resources/students_complete.csv), both located within the Resources folder. 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?<br />
-    The total schools, total students, total students remained the same, however the percentage of students passing math, reading and both math and reading decreased by <=1 percentage point each. 
+    The total schools, total students, total students remained the same, however the percentage of students passing math, reading and both math and reading decreased by <=1 percentage point each, which is significant given that fewer than 500 student grades for 9th graders at Thomas High School could shift the percentage passing in both subjects and overall for the entire school district of more than 39k total students. 
     ![Chart 1](https://github.com/banasibb/PyCity-Schools-Challenge/blob/f35a753ba8d4ea3dc225879ecef78d9b718560af/Challenge_Screenshots/new_district_summary.png)
 
 - How is the school summary affected?<br />
