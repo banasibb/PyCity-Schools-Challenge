@@ -8,7 +8,9 @@ The purpose of the analysis is to assess several aspects of two data files showi
     ![Chart 1](https://github.com/banasibb/PyCity-Schools-Challenge/blob/f35a753ba8d4ea3dc225879ecef78d9b718560af/Challenge_Screenshots/new_district_summary.png)
 
 - How is the school summary affected?<br />
+    The instructions for this Challenge assignment were extremely  unclear and I was unable to update the school summary. In the interest of time, I had to turn this assignment in so that I do not get further behind in class. 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    It didn't. I was unable to replicate the changes I made to my calculations in the tables. 
 - How does replacing the ninth-grade scores affect the following:
     - Reading Scores by Grade<br />
         ![Chart 5](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_Reading_Scores_by_grade.png)
