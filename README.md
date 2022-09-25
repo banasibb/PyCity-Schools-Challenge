@@ -8,6 +8,11 @@ The purpose of the analysis is to assess several aspects of two data files showi
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
+        Reading Scores by Grade
+![Chart 5](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_Reading_Scores_by_grade.png)<br />
+        Math Scores by Grade
+![Chart 6](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_math_Scores_by_grade.png)<br />
+
     - Scores by school spending
     - Scores by school size
     - Scores by school type
