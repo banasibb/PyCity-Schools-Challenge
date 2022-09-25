@@ -1,6 +1,7 @@
 # PyCity-Schools-Challenge
 ## Overview
-The purpose of the analysis is to assess several aspects of two data files showing school and student data for PyCity high schools. Specifically for the Challenge assignment, the files had to be reevaluated to replace math and reading scores for 9th grade students at Thomas High School, which appear to show signs of academic dishonesty and potentially skewed testing results. Once the math and reading scores for this subset of students at Thomas High School were replaced with NaN values, the client requested the school district analysis be repeated and a written report describing how these changes affected the original overall analysis.
+The purpose of the analysis is to assess several aspects of two data files showing school and student data for PyCity high schools. Specifically for the Challenge assignment, the files had to be reevaluated to replace math and reading scores for 9th grade students at Thomas High School, which appear to show signs of academic dishonesty and potentially skewed testing results. Once the math and reading scores for this subset of students at Thomas High School were replaced with NaN values, the client requested the school district analysis be repeated and a written report be submitted describing how these changes affected the original overall analysis.
+<br />The analysis included data across 15 schools, 39,170 students, and a budget for the school district of $24,649,428.00. The original data sets provided by the client include schools_complete.csv and students_complete.csv. 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
 - How is the school summary affected?
