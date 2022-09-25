@@ -9,9 +9,9 @@ The purpose of the analysis is to assess several aspects of two data files showi
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
         Reading Scores by Grade
-[Chart 5](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_Reading_Scores_by_grade.png)
+        [Chart 5](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_Reading_Scores_by_grade.png)
         Math Scores by Grade
-[Chart 6](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_math_Scores_by_grade.png)
+        [Chart 6](https://github.com/banasibb/PyCity-Schools-Challenge/blob/9b85f2b0907c7580334d3a463cd31af0bcf30e74/Challenge_Screenshots/new_math_Scores_by_grade.png)
 
     - Scores by school spending
     - Scores by school size
