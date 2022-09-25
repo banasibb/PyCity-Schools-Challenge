@@ -1,5 +1,6 @@
 # PyCity-Schools-Challenge
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview
+The purpose of the analysis is to assess several aspects of two data files showing school and student data for PyCity high schools. Specifically for the Challenge assignment, the files had to be reevaluated to replace math and reading scores for 9th grade students at Thomas High School, which appear to show signs of academic dishonesty and potentially skewed testing results. Once the math and reading scores for this subset of students at Thomas High School were replaced with NaN values, the client requested the school district analysis be repeated and a written report describing how these changes affected the original overall analysis.
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
 - How is the school summary affected?
