@@ -22,7 +22,7 @@ The purpose of the analysis is to assess several aspects of two data files showi
         ![Chart 4](https://github.com/banasibb/PyCity-Schools-Challenge/blob/f35a753ba8d4ea3dc225879ecef78d9b718560af/Challenge_Screenshots/new_type_summary_Df.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- After removing the 461 9th graders from Thomas High School, the total number of students included in the analysis dropped to 38,709
+- After removing the 461 9th graders from Thomas High School, the total number of students included in the student data analysis dropped to 38,709 (note this is distinct from the total number of students included in the school data set and analysis).
 - The original percentage of students passing math was 74.98% and changed to 74.76%. <br />
 - The original percentage of students passing reading was 85.81% and changed to 86.83%. <br />
 - The original percentage of students passing math and reading was 65.17% and changed to 64.85% <br />
